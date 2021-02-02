@@ -1,1 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T04:00:22.770Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="9DYEaSYR-54fJsUGyD_2" version="14.2.9" type="github"><diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">7VlNc9owEP01HMNYljH2sYE07UzSZoZ2mhyFLWylMvLIMpj++spYthGCQKcQk0y4oH36sPR2V28xPThKiluO0viehZj2bCssenDcs23g2K78KpFVhfjWoAIiTkI1qAUm5A9WoKXQnIQ40wYKxqggqQ4GbD7HgdAwxDlb6sNmjOpPTVGEDWASIGqiv0go4gr16mOV+BdMorh+MnD9qmeKgt8RZ/lcPa9nw9n6U3UnqF5LHTSLUciWGxC86cERZ0xUraQYYVpyW9NWzfu8p7fZN8dzccyExcxf/AivXfdnYT0/jQNRfPOvAFTrZGJVM4JDSZAyGRcxi9gc0ZsWvV6fGpfrWtJqx9wxlkoQSPAZC7FS3ka5YBKKRUJVLy6IeCyn9wfKetroGRdq5bWxqo254KvHTeOpXaE022lrS5v3gDlJsMBcgdWhy5PuZbMmhuU8wC9RaHsqbBGPsHhhpD9s3C7TCTO5Ib6SEzmmSJCFvhWk4jpqxrW+lQ3l3n9ytf3h6ldztdetq+GHq1/N1X63rnbenqv7rj3Q3Q3fjLuB1W1q1xtdIJrjuvLYCgDdvcuYCDxJ0ZqApazidFdyJuS+2VyaV35L6wJzgYuXiTVJUBNsAPu2qgNVXQih01fIsq2z4HBYo7FWZVln4q/SYI2+ScA4DhAPM4NIWbOlZTNYUSIZ5fAwndOK+7tpAzR14vdcyGWwwrMqt8DgNJS70NL5dhyD7eEOqv2zMW0G6j1Oppi/K5rtWmo7o9k3aL5FCX5XJDtux7EMgH85KtsI6yGV1TQWHFDYU4qpZR0tpoNuxdS9HLceXTzppdNlurXbX7r1RneJvIQnmC+IPOq26w/chihLqxdQM1KU7j/FTQcHfn+rTnLc/tAslLwd112NnYHAwR7t7tkuFaUQlK2obF00mXYtJN0xadabpTxfehQ67iVEoVlBjmKcZf2AJRL+9PDVvL0pJWlW3tJNuUNZHh4udU7AomMBjUMXmAQC1zIZbO6rM9QtXpcCBzbkrRW7074IOqXAgaMFDsBOBQ6YAjcmmZS4Wt7Km3pvapw/FYbbv0W9PvTMZAA7ksE7Xy50Wuy9uVyAx+aCZe2OhaNzQU19YETuckOUtoLIG+pLVDtTs7aCo9nG/8QLNOWHSb4ZpTvSi8csmebZq6SXbbzr2Zlf3mnSS5rtv5QVu+1fwfDmLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-02T04:36:54.798Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="aEDJsRvStgxmR009w1cp" version="14.2.9" type="github">
+  <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
+    <mxGraphModel dx="1426" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-18" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;dashed=1;dashPattern=1 1;fillColor=#E8E8E8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="110" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-11" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;dashed=1;dashPattern=1 1;fillColor=#E8E8E8;" vertex="1" parent="1">
+          <mxGeometry x="190" y="189" width="290" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vf9vTdB66Ux0jYDctxN9-128" target="_OLi9d8GjZn6ro1plHeX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.533;exitY=1.011;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="vf9vTdB66Ux0jYDctxN9-128" target="_OLi9d8GjZn6ro1plHeX-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="464" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vf9vTdB66Ux0jYDctxN9-128" target="vf9vTdB66Ux0jYDctxN9-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="494" />
+              <mxPoint x="500" y="494" />
+              <mxPoint x="500" y="690" />
+              <mxPoint x="450" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-128" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="201.25" y="348.13" width="377.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-97" value="Scorecards" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="536.75" y="340" width="75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-98" value="Members" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="536.75" y="244" width="75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-99" value="Games" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="536.75" y="436.75" width="75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-100" value="Scorecard Service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="360.38" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-105" value="Member&lt;br&gt;Service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="243.63" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-107" value="Game Service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="480.38" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-108" value="Chess.com API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="640" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_OLi9d8GjZn6ro1plHeX-9" target="vf9vTdB66Ux0jYDctxN9-113" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="108" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-116" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="vf9vTdB66Ux0jYDctxN9-113" target="vf9vTdB66Ux0jYDctxN9-128" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vf9vTdB66Ux0jYDctxN9-113" value="Controller" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Members&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;DiscordName&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ChesscomName&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;CreatedOn&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;UpdatedOn&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="660" y="232" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Scorecards&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Scorecard (json format)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;CreatedOn&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="660" y="332" width="140" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Games&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;GameId&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Players (alphabetical)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Winner (P1, P2, Draw)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Pgn&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;GameType&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;CreatedOn&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="660" y="428" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.614;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_OLi9d8GjZn6ro1plHeX-4" target="_OLi9d8GjZn6ro1plHeX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="106" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-4" value="Discord&lt;br&gt;Client" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_OLi9d8GjZn6ro1plHeX-9" value="Discord Server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="359" width="140" height="91" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
